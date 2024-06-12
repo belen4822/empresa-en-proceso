@@ -1,0 +1,10 @@
+<html>
+<head>
+<tittle>
+soy de 6g
+</tittle>
+</head>
+<body>
+este es mi primer diseño
+</body
+</html>
